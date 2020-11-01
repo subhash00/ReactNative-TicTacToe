@@ -3,7 +3,7 @@ This is mobile tic-tac-toe game made in ReactNative.
 
 # Preview
 
-![simple calculator](https://github.com/subhash00/ReactNative-TicTacToe/blob/master/native%20tictactoe.gif)
+![Tictactoe](https://github.com/subhash00/ReactNative-TicTacToe/blob/master/native%20tictactoe.gif)
 ------
 # Website
 Check the website [here](https://subhash00.github.io/tic-tac-toe/)
