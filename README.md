@@ -5,8 +5,8 @@ This is mobile tic-tac-toe game made in ReactNative.
 
 ![Tictactoe](https://github.com/subhash00/ReactNative-TicTacToe/blob/master/native%20tictactoe.gif)
 ------
-# Website
-Check the website [here](https://subhash00.github.io/tic-tac-toe/)
+# Get Apk
+Check the apk [here](https://subhash00.github.io/tic-tac-toe/)
 # Installation
 Install the dependencies
 ```sh
