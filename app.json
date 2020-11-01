@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "tic-tac",
+    "slug": "tic-tac-toe",
+    "version": "1.0.0",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "android": {
+      "package": "com.codingGuru.tictactoe",
+      "versionCode": 1
+    },
+    "description": "this is tic-tac-toe game"
+  }
+}
